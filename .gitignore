@@ -4,7 +4,6 @@ npm-debug.log
 .DS_STORE
 .*.swp
 database.*
-config/local.*
 .func_config
 .nyc_output
 data/*
